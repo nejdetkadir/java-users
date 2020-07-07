@@ -1,0 +1,2 @@
+Nejdet;Kadir;Man;20;1.78;83
+Şevval;Saygat;Woman;20;1.71;55
